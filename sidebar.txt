@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kfk:home|Door43 (kfk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kfk|d43-kfk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kfk/archive/master.zip|d43-kfk.zip]]
+
+**Recent Changes**
+{{changes>ns = kfk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kfk|Ethnologue data]]
+
